@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Nemopedia</string>
+    <string name="app_tagline">Ensiklopedia Mini untuk Semua</string>
+
+    <!-- Home Screen -->
+    <string name="welcome_message">Selamat Datang di Nemopedia</string>
+    <string name="search_hint">Cari artikel yang ingin dipelajari...</string>
+    <string name="categories_title">Kategori</string>
+    <string name="all_articles_title">Semua Artikel</string>
+    <string name="recent_articles">Artikel Terbaru</string>
+    <string name="popular_articles">Artikel Populer</string>
+
+    <!-- Categories -->
+    <string name="cat_all">Semua</string>
+    <string name="cat_science">Sains</string>
+    <string name="cat_history">Sejarah</string>
+    <string name="cat_technology">Teknologi</string>
+    <string name="cat_art">Seni</string>
+    <string name="cat_geography">Geografi</string>
+    <string name="cat_biology">Biologi</string>
+
+    <!-- Detail Screen -->
+    <string name="read_time">%d menit baca</string>
+    <string name="bookmark_added">✓ Ditambahkan ke favorit</string>
+    <string name="bookmark_removed">Dihapus dari favorit</string>
+    <string name="share_article">Bagikan Artikel</string>
+    <string name="back">Kembali</string>
+
+    <!-- Empty States -->
+    <string name="no_articles_found">Tidak ada artikel ditemukan</string>
+    <string name="no_search_results">Tidak ada hasil untuk \"%s\"</string>
+    <string name="search_empty">Coba kata kunci lain</string>
+
+    <!-- Loading -->
+    <string name="loading">Memuat...</string>
+</resources>
