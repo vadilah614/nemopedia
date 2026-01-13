@@ -10,3 +10,17 @@ dan pencarian informasi secara praktis melalui perangkat smartphone.
 - Kategori artikel
 - Bookmark artikel
 - Detail artikel
+
+## 🖼️ Screenshot Aplikasi
+
+### Tampilan Utama
+![Tampilan Utama](screenshots/tampilan-utama.png)
+
+### Artikel
+![Artikel](Screenshots/Artikel.png)
+
+### Tambah Artikel
+![Tambah Artikel](screenshots/tambah-artikel.png)
+
+### Bookmark
+![Bookmark](screenshots/bookmark.png)
